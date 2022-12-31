@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9499" started-at="2022-12-19T16:10:56Z" finished-at="2022-12-19T16:11:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9499" started-at="2022-12-19T16:10:56Z" finished-at="2022-12-19T16:11:06Z">
+      <class name="com.qa.techfios.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.techfios.tests.HomePageTest@6f3b5d16]" name="setUp" is-config="true" duration-ms="1649" started-at="2022-12-19T16:10:56Z" finished-at="2022-12-19T16:10:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateToggleAllFunctionality()[pri:0, instance:com.qa.techfios.tests.HomePageTest@6f3b5d16]" name="validateToggleAllFunctionality" duration-ms="1025" started-at="2022-12-19T16:10:58Z" finished-at="2022-12-19T16:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateToggleAllFunctionality -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.techfios.tests.HomePageTest@6f3b5d16]" name="tearDown" is-config="true" duration-ms="674" started-at="2022-12-19T16:10:59Z" finished-at="2022-12-19T16:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.techfios.tests.HomePageTest@6f3b5d16]" name="setUp" is-config="true" duration-ms="1265" started-at="2022-12-19T16:11:00Z" finished-at="2022-12-19T16:11:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateDuplicateCategoryMessage()[pri:1, instance:com.qa.techfios.tests.HomePageTest@6f3b5d16]" name="validateDuplicateCategoryMessage" duration-ms="943" started-at="2022-12-19T16:11:01Z" finished-at="2022-12-19T16:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDuplicateCategoryMessage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.techfios.tests.HomePageTest@6f3b5d16]" name="tearDown" is-config="true" duration-ms="631" started-at="2022-12-19T16:11:02Z" finished-at="2022-12-19T16:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.techfios.tests.HomePageTest@6f3b5d16]" name="setUp" is-config="true" duration-ms="1286" started-at="2022-12-19T16:11:02Z" finished-at="2022-12-19T16:11:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateMonthsInDueDateDropDown()[pri:2, instance:com.qa.techfios.tests.HomePageTest@6f3b5d16]" name="validateMonthsInDueDateDropDown" duration-ms="1364" started-at="2022-12-19T16:11:04Z" finished-at="2022-12-19T16:11:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMonthsInDueDateDropDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.techfios.tests.HomePageTest@6f3b5d16]" name="tearDown" is-config="true" duration-ms="633" started-at="2022-12-19T16:11:05Z" finished-at="2022-12-19T16:11:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.techfios.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

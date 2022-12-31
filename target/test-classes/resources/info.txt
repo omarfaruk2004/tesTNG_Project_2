@@ -1,0 +1,18 @@
+Application URL: http://techfios.com/test/102/
+For each answer, provide the same project link to your github. 
+Project must be a stand alone maven project with page object model design pattern including all drivers / data files.
+Try not use Xpath unless that's the last option. Avoid using absolute xpath.
+ 
+TestNG Project
+Test 1: Validate a user is able to add a category and once the category is added it should display.
+
+Test 2: Validate a user is not able to add a duplicated category. If it does then the following message will display: "The category you want to add already exists: <duplicated category name>."
+
+Test 3: Validate the month drop down has all the months (jan, feb, mar ...) in the Due Date dropdown section.
+
+
+The category you want to add already exists: TESTNG84.
+
+Do you want to update its colour to TESTNG84?
+
+Yes or Nevermind
